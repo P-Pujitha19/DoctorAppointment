@@ -1,0 +1,227 @@
+[
+  {
+    "id": "1",
+    "name": "Dr. Vinay Kumar",
+    "image": "/images/doc1.png",
+    "speciality": "General Physician",
+    "degree": "MBBS",
+    "experience": "4 Years",
+    "about": "Dr. Vinay Kumar has a strong commitment to delivering comprehensive medical care to individuals and families. With expertise in diagnosing and treating a wide range of acute and chronic conditions, he focuses on preventive health, lifestyle management, and patient education to ensure long-term wellness.",
+    "fees": 50,
+    "availability": ["Available Today"],
+    "address": {
+      "line1": "#12, 1st Floor, MG Road",
+      "line2": "Indiranagar, Bengaluru, 560038"
+    }
+  },
+  {
+    "id": "2",
+    "name": "Dr. Meena Rathi",
+    "image": "/images/doc2.png",
+    "speciality": "General Physician",
+    "degree": "MBBS, MD",
+    "experience": "6 Years",
+    "about": "Dr. Meena Rathi is dedicated to promoting overall wellness with a focus on chronic disease management and lifestyle guidance.",
+    "fees": 60,
+    "availability": ["Fully Booked"],
+    "address": {
+      "line1": "Flat 14, Green Towers",
+      "line2": "Andheri West, Mumbai, 400053"
+    }
+  },
+  {
+    "id": "3",
+    "name": "Dr. Ankit Mehra",
+    "image": "/images/doc3.png",
+    "speciality": "Gastroenterologist",
+    "degree": "MBBS, DM (Gastro)",
+    "experience": "8 Years",
+    "about": "Dr. Ankit Mehra specializes in digestive disorders with a strong emphasis on personalized diet and treatment plans.",
+    "fees": 80,
+    "availability": ["On Leave"],
+    "address": {
+      "line1": "Plot No. 27, 3rd Cross",
+      "line2": "Banjara Hills, Hyderabad, 500034"
+    }
+  },
+  {
+    "id": "4",
+    "name": "Dr. Rahul Sen",
+    "image": "/images/doc4.png",
+    "speciality": "Gastroenterologist",
+    "degree": "MBBS, MD, DM",
+    "experience": "5 Years",
+    "about": "Dr. Rahul Sen focuses on treating liver and intestinal disorders using minimally invasive procedures.",
+    "fees": 75,
+    "availability": ["Available Today"],
+    "address": {
+      "line1": "8th Floor, CityMed Hospital",
+      "line2": "Park Street, Kolkata, 700016"
+    }
+  },
+  {
+    "id": "5",
+    "name": "Dr. Priya Sharma",
+    "image": "/images/doc5.png",
+    "speciality": "Gynecologist",
+    "degree": "MBBS, MS (OBG)",
+    "experience": "10 Years",
+    "about": "Dr. Priya Sharma offers comprehensive care in obstetrics and gynecology with a compassionate approach.",
+    "fees": 100,
+    "availability": ["Available Today"],
+    "address": {
+      "line1": "Block B, Sector 21",
+      "line2": "Dwarka, New Delhi, 110075"
+    }
+  },
+  {
+    "id": "6",
+    "name": "Dr. Snehith Kapoor",
+    "image": "/images/doc6.png",
+    "speciality": "Gynecologist",
+    "degree": "MBBS, DGO",
+    "experience": "7 Years",
+    "about": "Dr. Snehith Kapoor is committed to ensuring safe pregnancies and promoting reproductive health for all women.",
+    "fees": 90,
+    "availability": ["Fully Booked"],
+    "address": {
+      "line1": "Sunrise Clinic, Lane 5",
+      "line2": "Kothrud, Pune, 411038"
+    }
+  },
+  {
+    "id": "7",
+    "name": "Dr. Rakesh Nair",
+    "image": "/images/doc7.png",
+    "speciality": "Neurologist",
+    "degree": "MBBS, DM (Neuro)",
+    "experience": "9 Years",
+    "about": "Dr. Rakesh Nair specializes in neurological disorders and provides advanced care for epilepsy, stroke, and migraines.",
+    "fees": 120,
+    "availability": ["Available Today"],
+    "address": {
+      "line1": "#89, 5th Main",
+      "line2": "Anna Nagar, Chennai, 600040"
+    }
+  },
+  {
+    "id": "8",
+    "name": "Dr. Ritesh Saxena",
+    "image": "/images/doc8.png",
+    "speciality": "Neurologist",
+    "degree": "MBBS, MD, DM",
+    "experience": "6 Years",
+    "about": "Dr. Ritesh Saxena is focused on treating disorders of the brain and spine with a personalized treatment approach.",
+    "fees": 110,
+    "availability": ["Fully Booked"],
+    "address": {
+      "line1": "Neuro Care Clinic, Lajpat Nagar",
+      "line2": "New Delhi, 110024"
+    }
+  },
+  {
+    "id": "9",
+    "name": "Dr. Sneha Reddy",
+    "image": "/images/doc9.png",
+    "speciality": "Pediatrician",
+    "degree": "MBBS, DCH",
+    "experience": "5 Years",
+    "about": "Dr. Sneha Reddy is dedicated to the care and development of children from infancy to adolescence.",
+    "fees": 60,
+    "availability": ["On Leave"],
+    "address": {
+      "line1": "1st Floor, Lotus Towers",
+      "line2": "JP Nagar, Bengaluru, 560078"
+    }
+  },
+  {
+    "id": "10",
+    "name": "Dr. Arvind Menon",
+    "image": "/images/doc10.png",
+    "speciality": "Pediatrician",
+    "degree": "MBBS, MD (Peds)",
+    "experience": "8 Years",
+    "about": "Dr. Arvind Menon provides child-friendly, evidence-based care for all pediatric concerns including immunization.",
+    "fees": 70,
+    "availability": ["Available Today"],
+    "address": {
+      "line1": "Bright Kids Hospital, 3rd Ave",
+      "line2": "Besant Nagar, Chennai, 600090"
+    }
+  },
+  {
+    "id": "11",
+    "name": "Dr. Arpitha Malhotra",
+    "image": "/images/doc11.png",
+    "speciality": "Dermatologist",
+    "degree": "MBBS, MD (Derm)",
+    "experience": "6 Years",
+    "about": "Dr. Arpitha Malhotra offers expert care for skin, hair, and nail conditions with a focus on cosmetic dermatology.",
+    "fees": 85,
+    "availability": ["Fully Booked"],
+    "address": {
+      "line1": "#45, Park Street",
+      "line2": "Salt Lake City, Kolkata, 700091"
+    }
+  },
+  {
+    "id": "12",
+    "name": "Dr. Nishith Verma",
+    "image": "/images/doc12.png",
+    "speciality": "Dermatologist",
+    "degree": "MBBS, DDVL",
+    "experience": "7 Years",
+    "about": "Dr. Nishith Verma is known for her expertise in acne, pigmentation, and anti-aging treatments.",
+    "fees": 90,
+    "availability": ["On Leave"],
+    "address": {
+      "line1": "Glow Skin Clinic, Phase 2",
+      "line2": "Hitech City, Hyderabad, 500081"
+    }
+  },
+  {
+    "id": "13",
+    "name": "Dr. Amala Joshi",
+    "image": "/images/doc13.png",
+    "speciality": "General Physician",
+    "degree": "MBBS, MD",
+    "experience": "5 Years",
+    "about": "Dr. Amala Joshi is skilled in managing acute illnesses and promoting preventive health through lifestyle coaching.",
+    "fees": 50,
+    "availability": ["Available Today"],
+    "address": {
+      "line1": "HealthFirst Clinic, Near Town Hall",
+      "line2": "Ahmedabad, 380001"
+    }
+  },
+  {
+    "id": "14",
+    "name": "Dr. Kamal Iyer",
+    "image": "/images/doc14.png",
+    "speciality": "Pediatrician",
+    "degree": "MBBS, DNB",
+    "experience": "9 Years",
+    "about": "Dr. Kamal Iyer provides expert care for children’s growth, behavioral health, and nutritional needs.",
+    "fees": 75,
+    "availability": ["Fully Booked"],
+    "address": {
+      "line1": "Little Steps Pediatric Care",
+      "line2": "Bannerghatta Road, Bengaluru, 560076"
+    }
+  },
+  {
+    "id": "15",
+    "name": "Dr. Kavita Bhatia",
+    "image": "/images/doc15.png",
+    "speciality": "Neurologist",
+    "degree": "MBBS, DM (Neurology)",
+    "experience": "10 Years",
+    "about": "Dr. Kavita Bhatia is an experienced neurologist focused on stroke rehabilitation and neurodegenerative disorders.",
+    "fees": 125,
+    "availability": ["Available Today"],
+    "address": {
+      "line1": "Neuro Axis Centre",
+      "line2": "Shivaji Nagar, Pune, 411005"
+    }
+  }
+]
