@@ -20,7 +20,7 @@ A responsive React + TypeScript app for browsing doctors, viewing profiles, and 
 ## 🚀 Setup Instructions
 
 ```bash
-git clone https://github.com/yourusername/doctor-appointment.git
+git clone https://github.com/P-Pujitha19/DoctorAppointment.git
 cd doctor-appointment
 npm install
 npm run dev
