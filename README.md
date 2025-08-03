@@ -1,19 +1,23 @@
-🩺 Doctor Appointment Web App
-A responsive React + TypeScript app for browsing doctors, viewing profiles, and booking appointments.
+**Healthcare Appointment Booking App**
+A responsive, user-friendly web application for browsing doctors and booking healthcare appointments. Built using React with a focus on clean UI/UX, maintainable architecture, and component-driven development.
+**🛠️ Features**
+**✅ Core Features**
 
-🔧 Tech Stack
-React + Vite + TypeScript
-Tailwind CSS
-React Router
-React Hook Form (for form handling)
-Local JSON as mock API
-✨ Features
-Landing page with searchable doctor list
-Individual doctor profile with availability
-Appointment booking with form validation
-Responsive and mobile-friendly design
-🚀 Setup Instructions
-git clone https://github.com/P-Pujitha19/DoctorAppointment.git
-cd doctor-appointment
-npm install
-npm run dev
+**Landing Page**
+-List of doctors with their image, name, and specialization
+-Real-time availability status (e.g., "Available Today", "On Leave")
+-Search functionality (filter by name/specialization)
+
+**Doctor Profile Page**
+-Detailed view of doctor’s information
+-Weekly availability schedule
+-Prominent "Book Appointment" CTA
+
+**Appointment Booking**
+-Form to collect patient's name, email, and desired date/time
+-Confirmation message upon successful booking
+
+**🎯 Bonus Features (Implemented)**
+-Tailwind CSS for clean and responsive UI
+-Form Validation using basic input checks (email, required fields)
+-Mobile Responsiveness: Fully responsive for tablets and smartphones
